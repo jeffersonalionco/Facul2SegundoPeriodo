@@ -94,6 +94,18 @@ SI: Logistico:
 SI EM Saude: Sistema que geralmente é usado em hospitais.
 SI Educacional: Sistema que gerencios processosos academicos, livros, notas etc...
 
+----------------- Desafios para implantar sistemas------------------
+
+
+Resistencia a Mudança- Dificuldade em adaptar-se a novos sistemas e processos
+Custos: Altas custos associados a aquisição e implementação de sistemas de informação.
+
+
+ATIVIDADE
+
+Elaborar uma sintese sobre 'Sistema de Informação".
+definição, Caracteristicas, Funções e Exemplos 
+
 
 
 

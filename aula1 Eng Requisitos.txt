@@ -1,0 +1,114 @@
+AULA DE ENGENHARIA DE REQUISITOS 07/08/2024
+
+
+Tipos de Informação
+
+Informação Tática
+  Apoia a gestão de media prazo
+Informação Estrategica
+  Apoia a decisão a longo prazo 
+Informação Opercaional
+
+
+Definição de sistema
+  Conjunto de elementos inter-relacionados trabalhando para um objetivo comum
+  Ex: Varios modudlos juntos, compoem um sistema.
+
+Componentes de um sistema 
+   Entrada: Recursos que entram no sistema
+   Processamento: Transformação dos recurso de entrada
+   Saida: resultado do processamento
+   FeedBack: Informação de saida para ajustar a entrada ou processamento.
+
+
+  Definição de sistema de imnformação
+    É um sistema que coleta, processa, armazena e distribui informação para apoia a tomada de decisao de o conrtole em uma oraganização 
+
+
+  Componentes de um sistema de infomação
+  Hardware: Equipamentos Fisicos 
+  Software: Programas e aplicativos
+  Dados: Informação  usadas e gerados pelo sistema
+  Pessoas: Uusarios e profissionais de SI
+  Processos: Metodo e procedimentos para gerencias e processar os daods. 5s
+
+  Sistema de Informação em negocios
+    Facilita a automação e melhora a comunicação e apoia a analise e planejamento estrategico.
+
+
+Exemplos de Sistema de infomração em negocios
+
+ERP: Enterprise Resource Planning
+CRM: Customer RelationShip Management
+SCM: Supply Clain Management
+
+
+------------------ CICLO DE VIDA DO DESENVOLVIMENTO DE SISTEMAS SDLC -----------------------------
+  Metodologia para desenvolvimento de SI
+
+  Fases do SDLC
+  1° Planejamento- Identificação dos requisitos do sistema estabelicido de obejetivos e viabilidade do projeto.
+  2° Analise -  Definição das necessidade do usuario e especificação do sistema.
+  3° Design- Criação de arquitetura do sistema, especificação decomponentes e interfaces.
+  4°Implementação- Construção, teste e instalação do sistema.
+  5°Manutenção- Atualização e correções do sistema após a implementações.
+
+
+Funções de Gestão de SI
+Governança de TI 
+   Estrutura que garante os investimentos em ti gerem valor e mitiguem riscos
+Alinhamento Estrategico de TI
+  Integração dos objetivos de ti com as metas estrategicos da organização.
+Segurança da informação
+  Proteção contra acesso não autorizado, contra uso de divulgação, interrupção, modificação ou destruição.
+Politica de Segurança
+Gestão de Riscos de Ti
+   Identificação, avaliação e mitigação de riscos relacionados aos sistemas de informação.
+
+
+--------------------------TECNOLOGIAS EMERGENTES -----------------------------
+
+Big Data
+ Conjunto de dados muito grandes e complexos para serem tratados por sistemas tradicionais.
+
+IoT - Internet das Coisa
+  Conexão de dispositivos fisicos a internet para coleta e troca de dados.
+
+IA Inteligencia Artificial
+  Sistemas que simulam a inteligencia humana, inlcuindo aprendizado de maquina e processameto de linguagem natural.
+
+Computação em Nuvem
+  Uso de serviço de TI pela internet para armazenamento e processamento e gestão.
+BlockChain
+  Tecnologia de registro distribuido que garante a segurança e transparencia das transções.
+
+
+
+
+-------------------- APLICAÇÕES PRATICAS DOS SISTEMAS DE INFORMAÇÃO -------------
+
+Aplicações praticas
+
+SI Financeiro: Suporte a processos financeiros, analise de riscos e tomada de decições
+SI: Logistico:
+SI EM Saude: Sistema que geralmente é usado em hospitais.
+SI Educacional: Sistema que gerencios processosos academicos, livros, notas etc...
+
+
+
+
+   
+
+
+
+
+
+
+
+    
+
+  
+
+  
+   
+
